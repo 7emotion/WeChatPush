@@ -1,0 +1,17 @@
+{
+  "name": "autopush",
+  "version": "1.0.0",
+  "description": "​\t通过微信测试公众号，简单的代码，向微信推送一些定制化的内容，例如：天气信息、快递信息、星座运势等。",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "serve": "node index.js"
+  },
+  "keywords": [],
+  "author": "smallShu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "moment": "^2.29.4"
+  }
+}

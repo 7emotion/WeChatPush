@@ -1,0 +1,12 @@
+今天是：{{date.DATA}} {{week.DATA}} 
+每一天都是爱你的一天！ 
+工作再忙也要记得按时吃饭。 
+当前城市：{{city.DATA}} 
+今天天气：{{textDay.DATA}} 
+今天气温：{{tempMin.DATA}} - {{tempMax.DATA}} 
+今天是我们恋爱的第{{lovediff.DATA}}天 
+距离man的生日还有{{mandiff.DATA}}天 
+距离woman的生日还有{{womandiff.DATA}}天
+ 
+{{note_en.DATA}} 
+{{note_ch.DATA}}
