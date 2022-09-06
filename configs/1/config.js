@@ -1,13 +1,13 @@
 module.exports = {
 	// 微信公众号消息模板id
-	templateId: "#",
+	templateId: "fEHRVPc06wqP44TRirVEKUojfgzOasrUyjS10UeV4nY",
 	// 接受消息的用户
-	users: ["#"],
+	users: ["oNU-d51Z_jHCniWnDvSI9BXr_IG0"],
 
 	// 和风天气密钥
-	key: "#",
+	key: "cd88f6d962c945b18b56153aa9f27314",
 	// 和风天气查询地址
-	location: "长沙",
+	location: "郑州",
 
 	// 在一起的日子
 	love: "2018-11-07",
